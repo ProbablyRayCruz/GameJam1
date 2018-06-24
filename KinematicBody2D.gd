@@ -2,6 +2,7 @@ extends KinematicBody2D
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Member variables
 const MOTION_SPEED = 160 # Pixels/second
 =======
@@ -29,6 +30,11 @@ func _physics_process(delta):
 	motion = motion.normalized() * MOTION_SPEED
 
 =======
+=======
+# Member variables
+const MOTION_SPEED = 160 # Pixels/second
+
+>>>>>>> parent of c8110da... Merge remote-tracking branch 'origin/master'
 
 func _physics_process(delta):
 	var motion = Vector2()
@@ -44,7 +50,6 @@ func _physics_process(delta):
 	
 	motion = motion.normalized() * MOTION_SPEED
 
->>>>>>> origin/master
 	move_and_slide(motion)
 =======
 const SPEED = 20
