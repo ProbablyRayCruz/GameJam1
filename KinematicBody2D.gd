@@ -1,16 +1,18 @@
 extends KinematicBody2D
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Member variables
 const MOTION_SPEED = 160 # Pixels/second
 =======
 # This is a demo showing how KinematicBody2D
 # move_and_slide works.
 >>>>>>> origin/master
+=======
+>>>>>>> parent of 58b9109... lvl1
 
-# Member variables
-const MOTION_SPEED = 300 # Pixels/second
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 func _physics_process(delta):
 	var motion = Vector2()
@@ -44,3 +46,7 @@ func _physics_process(delta):
 
 >>>>>>> origin/master
 	move_and_slide(motion)
+=======
+const SPEED = 20
+
+>>>>>>> parent of 58b9109... lvl1

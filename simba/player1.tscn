@@ -2,10 +2,14 @@
 
 [ext_resource path="res://KinematicBody2D.gd" type="Script" id=1]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [ext_resource path="res://simba/sprites/player/laweer.png" type="Texture" id=2]
 =======
 [ext_resource path="res://laweer.png" type="Texture" id=2]
 >>>>>>> origin/master
+=======
+[ext_resource path="res://sprites/player/laweer.png" type="Texture" id=2]
+>>>>>>> parent of 58b9109... lvl1
 
 [sub_resource type="CapsuleShape2D" id=1]
 
