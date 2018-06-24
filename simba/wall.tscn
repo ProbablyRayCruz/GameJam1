@@ -1,6 +1,12 @@
 [gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://simba/sprites/walls/wall.png" type="Texture" id=1]
+<<<<<<< HEAD
+[ext_resource path="res://simba/player1.tscn" type="PackedScene" id=2]
+
+
+=======
+>>>>>>> origin/master
 
 [sub_resource type="RectangleShape2D" id=1]
 
